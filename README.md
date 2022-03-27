@@ -178,7 +178,7 @@ package="fr.gobelins.dmi1">
 
 ### Tâche 3: Faire une recherche sur Google
 Dans cette partie du TP, vous allez modifier l'activité principal de l'application pour y ajouter
-un bouton 'Rechercher'. Quand l'utilisateur clique sur le bouton, ouvrir le navigateur sur ````https://google.fr```. 
+un bouton 'Rechercher'. Quand l'utilisateur clique sur le bouton, ouvrir le navigateur sur ```https://google.fr```. 
 
 ### Tâche 4: Partager un message sur les réseaux sociaux, par mail ou par SMS
 Modifier l'acivité principale pour y ajouter un bouton qui permet à l'utilisateur de partager un contenu par mail,
